@@ -1,4 +1,5 @@
 helo world
+<<<<<<< HEAD
 hello world
 feature1
-
+hahaha`
